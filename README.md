@@ -11,9 +11,11 @@ I decided to replace mine preventatively, and this project is the result of that
 various conditioning components on the output side to make sure we have perfectly smooth rails, despite the fact that these are switching rather than linear 
 supplies.  It works fabulously.
 
-The LEDs and resistors near them are optional, but they give you an easy way to identify that all 4 rails are operating properly.  Be aware that this 
-PCB is managing mains voltages, so don't take on this project if you don't know what you're doing, or if this is a first attempt at building a PCB.  Don't 
-fool with mains voltages unless you know precisely how to protect yourself.
+The LEDs and resistors near them are optional, but they give you an easy way to identify that all 4 rails are operating properly.  
+
+Be aware that this 
+PCB is managing mains voltages, so don't take on this project if you don't know what you're doing, or if this is a first attempt at building a PCB.  
+**Don't fool with mains voltages unless you know precisely how to protect yourself.**
 
 Also be aware that this PCB needs insulation on the bottom of the board.  The JX8P uses a shielded metal foil that is grounded.  You'll get fireworks if you 
 just plunk this PCB down and connect it.  I used a sheet of plexiglass, and attached the board and plexiglass to the wooden base of the synth using 6-32 
@@ -36,6 +38,13 @@ Regarding the connectors that go to the synthesizer itself, they are no longer a
 good desoldering tools, you have other options.  You could snip the connector off of the synth and simply solder the wires directly, making sure to label 
 them before you cut anything.  You could also change the connector to something more standard and user header pins, again be sure to label each wire before 
 you do this.  The old PCB actually has markings for the voltages for each wire, and the wires are color coded as well.
+
+At the time this was originally built (May 2025), you could get 5 PCBs from PCBWay for around $40, and the total cost for all the components is around $90, 
+so for $130 you should be able to replace your old power supply, which is considerably cheaper than some so-called "professional" replacement power supplies 
+I've seen online.  I seriously doubt that these "professional" boards are any more professional that this one, as all the heavy lifting is done in three 
+components -- the Recom modules.  I didn't try it, but you *might* literally be able to get away with doing nothing more than connecting your synth directly 
+to the outputs of the three Recom modules (making sure that you combine their output grounds).  I chose to put components after the output to make sure it's 
+smooth and without ripple, but those Recom modules might be sufficient without all that stuff.
 
 Best of luck.  As always, this project is a personal project.  I am not liable for any damage you do to your synth, to yourself, your friends and family, or 
 to your property, even if there is an error in this design.  Build at your own risk, and make sure to check the output voltages on everything before you connect it to your synth.
