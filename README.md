@@ -27,3 +27,15 @@ sensitive components of the synth if somehow one of the power units went out of 
 The total current draw across the fuse is just above 1.5 amps, so a 2 amp fuse should probably be what you use.
 
 I've included a Gerber .zip file, so you can just send the .zip to your favorite PCB fab house.
+
+On the mains side (labeled N / L), you'll take the output of the PX8P's filter board, and connect it here.  Remove the transformer and the old PCB.  The 
+leads that used to go to the transformer (the green and the white) will now connect to this board.  The white one should connect to the N screw terminal and 
+the green one should connect to the L screw terminal.
+
+Regarding the connectors that go to the synthesizer itself, they are no longer available, so I desoldered the old ones from my old PCB.  If you don't have 
+good desoldering tools, you have other options.  You could snip the connector off of the synth and simply solder the wires directly, making sure to label 
+them before you cut anything.  You could also change the connector to something more standard and user header pins, again be sure to label each wire before 
+you do this.  The old PCB actually has markings for the voltages for each wire, and the wires are color coded as well.
+
+Best of luck.  As always, this project is a personal project.  I am not liable for any damage you do to your synth, to yourself, your friends and family, or 
+to your property, even if there is an error in this design.  Build at your own risk, and make sure to check the output voltages on everything before you connect it to your synth.
