@@ -4,7 +4,7 @@ Replacement power supply for Roland JX8P
 ![Alt text](JX8P_PSU.jpg)
 
 The power supply for the Roland JX8P is nearly 40 years old at this point, and if you own a JX8P you should probably be a little concerned about its 
-typical manner of failing, which is to spike the +5V rail, which is your logic rail, frying lots of logic chips on your synth.  It is also built 
+typical manner of failing, which is to spike the +5V rail (your logic rail) frying lots of logic chips on your synth.  It is also built 
 around heat generating linear regulators, which makes its demise even more likely.
 
 I decided to replace mine preventatively, and this project is the result of that effort.  It's basically three Recom power modules with a common ground, and 
