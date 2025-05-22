@@ -34,10 +34,10 @@ On the mains side (labeled N / L), you'll take the output of the JX8P's filter b
 board.  The leads that used to go to the transformer (the green and the white) will now connect to this board.  The white one should connect to the N screw terminal and 
 the green one should connect to the L screw terminal.
 
-Regarding the connectors that go to the synthesizer itself, they are no longer available, so I desoldered the old ones from my old PCB.  If you don't have 
-good desoldering tools, you have other options.  You could snip the connector off of the synth and simply solder the wires directly, making sure to label 
+Regarding the connectors that go to the synthesizer itself, they are no longer available, so I desoldered the old ones from my old power supply board.  If 
+you don't have good desoldering tools, you have other options.  You could snip the connector off of the synth and simply solder the wires directly, making sure to label 
 them before you cut anything.  You could also change the connector to something more standard and user header pins, again be sure to label each wire before 
-you do this.  The old PCB actually has markings for the voltages for each wire, and the wires are color coded as well.
+you do this.  The old power supply actually has markings for the voltages for each wire, and the wires are color coded as well.
 
 At the time this was originally built (May 2025), you could get 5 PCBs from PCBWay for around $40, and the total cost for all the components is around $90, 
 so for $130 you should be able to replace your old power supply, which is considerably cheaper than some so-called "professional" replacement power supplies 
