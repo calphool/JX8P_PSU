@@ -569,7 +569,7 @@
           "group_by": false,
           "label": "Manufacturer_Part_Number",
           "name": "Manufacturer_Part_Number",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
