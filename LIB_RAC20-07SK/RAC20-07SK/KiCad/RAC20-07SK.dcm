@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RAC20-07SK
+D 20W AC/DC-Converter 'POWERLINE' 2"x1" 3kV reg
+K
+F https://recom-power.com/pdf/Powerline_AC-DC/RAC20-K.pdf
+$ENDCMP
+#
+#End Doc Library

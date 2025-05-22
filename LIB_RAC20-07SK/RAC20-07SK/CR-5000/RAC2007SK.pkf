@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "RAC2007SK"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "RAC2007SK")
+        (spec "default")
+    )
+)

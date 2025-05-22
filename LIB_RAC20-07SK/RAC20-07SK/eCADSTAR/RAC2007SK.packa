@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "RAC20-07SK"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-12-21-10:25:41)
+    (mountForm default
+        (footprintRef "RAC2007SK")
+        (spec "System")
+    )
+)

@@ -1,0 +1,16 @@
+.RAC20-07SK :1 ;20W AC/DC-Converter 'POWERLINE' 2"x1" 3kV reg
+RAC2007SK
+*STM PS
+*NGS
+*PLB 1="VAC IN (N)" 2="VAC IN (L)" 4="-VOUT" 5="+VOUT"
+*MXP 4
+*DFN RAC20-07SK
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (RECOM Power)
+~!Manufacturer_Part_Number (RAC20-07SK)
+~!Link Datasheet (https://recom-power.com/pdf/Powerline_AC-DC/RAC20-K.pdf)
+~!Height (23.5mm)
+~!3D_Model (RAC20-07SK)
+RAC20-07SK
+1.1!U 2.1!U 4.1!U 5.1!U 

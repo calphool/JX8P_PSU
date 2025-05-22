@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RAC20_07SK'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "RECOM Power", "RAC20-07SK" (!) = "", "RAC2007SK", "Other", "", "", "20W AC/DC-Converter 'POWERLINE' 2"x1" 3kV reg", "https://recom-power.com/pdf/Powerline_AC-DC/RAC20-K.pdf", "23.5 mm"
+END_PART
+
+END.

@@ -1,0 +1,16 @@
+# Ignore files ending in .lck
+*.lck
+
+# Ignore files ending in -cache
+*-cache
+
+# Ignore directories ending in "backup"
+**/*backup/
+
+*auto_saved_files*
+
+#autosave*.*
+
+*backup*
+
+_autosave-JX8P_PSU.kicad_pcb

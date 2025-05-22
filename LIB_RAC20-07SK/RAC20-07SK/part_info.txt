@@ -1,0 +1,9 @@
+Manufacturer=RECOM Power
+PartNumber=RAC20-07SK
+PartCategory=Power Supply
+PackageCategory=Other
+PinCount=4
+Version=3.3
+Released=2022-12-21 10:25:41
+Downloaded=2025-05-13 22:20:39
+3D=Y
