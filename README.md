@@ -30,8 +30,8 @@ The total current draw across the fuse is just above 1.5 amps, so a 2 amp fuse s
 
 I've included a Gerber .zip file, so you can just send the .zip to your favorite PCB fab house.
 
-On the mains side (labeled N / L), you'll take the output of the JX8P's filter board, and connect it here.  Remove the transformer and the old PCB.  The 
-leads that used to go to the transformer (the green and the white) will now connect to this board.  The white one should connect to the N screw terminal and 
+On the mains side (labeled N / L), you'll take the output of the JX8P's filter board, and connect it here.  Remove the transformer and the old power supply 
+board.  The leads that used to go to the transformer (the green and the white) will now connect to this board.  The white one should connect to the N screw terminal and 
 the green one should connect to the L screw terminal.
 
 Regarding the connectors that go to the synthesizer itself, they are no longer available, so I desoldered the old ones from my old PCB.  If you don't have 
